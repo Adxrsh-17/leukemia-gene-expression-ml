@@ -84,3 +84,28 @@ This project applies **machine learning** and **deep learning** techniques to ge
 ## How to Run
 
 1. **Clone the Repository**
+git clone https://github.com/your-username/leukemia-gene-expression-ml.git
+
+text
+
+2. **Install Required Dependencies**
+pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
+
+text
+
+3. **Place Data File**
+- Upload `actual.csv` to your project directory or to your Google Drive as specified in the notebook.
+
+4. **Run the Notebook**
+- Open `IBS_S3_Gene_Prediction.ipynb` in Jupyter Notebook or Google Colab.
+- Execute each cell sequentially for end-to-end reproducibility.
+
+---
+
+## References
+
+- Data and approach inspired by classical microarray-based cancer classification studies.
+- Libraries: TensorFlow, scikit-learn, pandas, matplotlib.
+- For further reading, consider exploring foundational papers on gene expression-based cancer prediction.
+
+---
